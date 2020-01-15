@@ -74,4 +74,7 @@ To operate the robot via the keyboard, open a second terminal, navigate to the r
 - `$ source devel/setup.bash`
 - `$ rosrun teleop_twist_keyboard teleop_twist_keyboard.py`
 
+The database from the environment is on the following link:
+
+- https://www.dropbox.com/s/xzrjtqzyjsf4wo8/rtabmap.db?dl=0
 
